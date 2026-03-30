@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+frontend/CSE_GPT/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# Environment variables (IMPORTANT)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
